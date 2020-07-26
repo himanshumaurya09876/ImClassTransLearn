@@ -1,7 +1,5 @@
-# ImClassTransLearn
-Image Classifier with Transfer Learning, this is a DL project based on Transfer Learning.
-<ul>
-<li>Uses ResNet50 architecture and weights.</li>
-<li>Gives very high accuracy even on very small dataset containing images of cats, dogs, horses and humans.</li>
-<li>Can classify any image of these classes very very accurately and efficiently.</li>
-</ul>
+# Image Classifier using Transfer Learning
+<li>A DL based project that classifies an image into Cat, Dog, Horse or Human.</li>
+<li>Used Transfer Learning due to shortage of data.</li>
+<li>Imported the architecture and weights of ResNet50 pretrained CNN model which is trained on a very very large ImageNet dataset.</li>
+<li>Got a very high accuracy even with very small dataset.</li>
